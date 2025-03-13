@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Node.js Express API that provides a simple endpoint returning \"Hello, World!\"",
   "devDependencies": {
     "jest": "^29.7.0"
   }
